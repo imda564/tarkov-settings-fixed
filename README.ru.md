@@ -1,7 +1,7 @@
 # Tarkov Settings (поддерживаемый форк)
 ![screenshot](./1.png)
 
-**Language:** [English](README.md) | [한국어](README.ko.md) | Русский
+**Language:** [English](README.md) | [한국어](README.ko.md) | Русский | [中文](README.zh.md) | [日本語](README.ja.md)
 
 Это поддерживаемый форк [incheon-kim/tarkov-settings](https://github.com/incheon-kim/tarkov-settings), который не обновлялся с октября 2023 года и имеет несколько неисправленных отчётов о сбоях. В этом форке исправлено:
 - Сбои при потере валидности дескриптора дисплея NVIDIA (смена RDP-сессии, закрытие панели управления NVIDIA, засыпание/переподключение монитора) — см. issue [#3](https://github.com/incheon-kim/tarkov-settings/issues/3) и [#17](https://github.com/incheon-kim/tarkov-settings/issues/17) в оригинальном репозитории

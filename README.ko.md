@@ -1,7 +1,7 @@
 # Tarkov Settings (유지보수 포크)
 ![screenshot](./1.png)
 
-**Language:** [English](README.md) | 한국어 | [Русский](README.ru.md)
+**Language:** [English](README.md) | 한국어 | [Русский](README.ru.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
 이 저장소는 [incheon-kim/tarkov-settings](https://github.com/incheon-kim/tarkov-settings)의 유지보수 포크입니다. 원본은 2023년 10월 이후 업데이트가 없고, 해결되지 않은 크래시 이슈가 여러 개 남아있습니다. 이 포크에서 수정한 내용은 다음과 같습니다:
 - NVIDIA 디스플레이 핸들이 무효화될 때(원격 데스크톱 세션 전환, NVIDIA 제어판 닫기, 모니터 절전/핫플러그) 발생하던 크래시 — 원본 이슈 [#3](https://github.com/incheon-kim/tarkov-settings/issues/3), [#17](https://github.com/incheon-kim/tarkov-settings/issues/17) 참고
