@@ -1,8 +1,6 @@
 # Tarkov Settings (Maintained Fork)
 ![screenshot](./1.png)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fincheon-kim%2Ftarkov-settings&count_bg=%238C8C8C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 This is a maintained fork of [incheon-kim/tarkov-settings](https://github.com/incheon-kim/tarkov-settings), which has had no updates since October 2023 and several unfixed crash reports. This fork fixes:
 - Crashes when the NVIDIA display handle becomes invalid (RDP session change, closing NVIDIA Control Panel, monitor sleep/hotplug) — see upstream issues [#3](https://github.com/incheon-kim/tarkov-settings/issues/3) and [#17](https://github.com/incheon-kim/tarkov-settings/issues/17)
 - Settings not saving when closing the window with the title bar's X button (previously only saved via tray icon → Exit)
