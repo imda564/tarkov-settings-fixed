@@ -9,7 +9,7 @@ This is a maintained fork of [incheon-kim/tarkov-settings](https://github.com/in
 - App crashing on a corrupted/invalid `settings.json` (now resets to defaults with a warning instead)
 - Added `EscapeFromTarkovArena` to the default monitored process list — see upstream issue [#23](https://github.com/incheon-kim/tarkov-settings/issues/23)
 
-## [->**DOWNLOAD Latest**<-](https://github.com/imda564/tarkov-settings/releases/latest)
+## [->**DOWNLOAD Latest**<-](https://github.com/imda564/tarkov-settings-fixed/releases/latest)
 
 Automatically change color settings for [Escape from Tarkov](https://escapefromtarkov.com).
 
