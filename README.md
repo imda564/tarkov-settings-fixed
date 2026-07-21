@@ -72,4 +72,7 @@ Save a profile first, then click **Set** next to "Hotkey:" and press a key combi
 - [x] Hot Keys
 - [ ] EFT setting modify (Framelimit or Graphic Settings)
 
+## License
+LGPL-2.1, same as upstream — see [LICENSE](LICENSE). See [CHANGELOG.md](CHANGELOG.md) for what's changed in this fork and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for bundled dependency licenses.
+
 Thanks for your support!

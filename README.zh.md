@@ -72,4 +72,7 @@
 - [x] 快捷键
 - [ ] 修改 EFT 游戏内设置(帧数限制或画质设置)
 
+## 许可证
+与原项目相同,采用 LGPL-2.1 —— 详见 [LICENSE](LICENSE)。本分支的具体改动请见 [CHANGELOG.md](CHANGELOG.md),内置第三方依赖的许可证请见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+
 感谢您的支持!
